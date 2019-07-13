@@ -28,7 +28,7 @@ x = [i for i,j in pts]
 y = [j for i,j in pts]
 ax.plot(x,y)
 
-# sidos = seould,    pusan,  daegu,  incheon, kwanju
+# sidos = seoul,    pusan,  daegu,  incheon, kwanju
 #            daejeon, ulsan,   sejong,  kyungki, kangwon
 #            chubuk, chunam, junbuk, junnam, kyungbuk
 #            kyungnam,  jeju
